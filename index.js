@@ -6,8 +6,8 @@
  * Copyright (c) 2013 by Hsiaoming Yang.
  */
 
-var event = require('event');
-var emitter = require('emitter');
+var event = require('component-event');
+var emitter = require('component-emitter');
 
 module.exports = Caret;
 

@@ -1,0 +1,12 @@
+{
+  "name": "lepture-caret",
+  "description": "Listen to and manipulate the text caret.",
+  "version": "0.1.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
